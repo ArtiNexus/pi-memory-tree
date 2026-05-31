@@ -1,4 +1,10 @@
-# 🌳 pi-memory-tree — Hierarchical Agent Memory
+<div align="center">
+  <h1>🌳 pi-memory-tree</h1>
+</div>
+
+<div align="center">
+  — Hierarchical Agent Memory
+</div>
 
 <p align="center">
   <img src="assets/favicon/favicon.svg" alt="pi-memory-tree logo" width="160"/>
