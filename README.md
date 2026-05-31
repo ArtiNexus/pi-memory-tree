@@ -1,5 +1,9 @@
 # 🌳 pi-memory-tree — Hierarchical Agent Memory
 
+<p align="center">
+  <img src="assets/favicon/favicon.svg" alt="pi-memory-tree logo" width="160"/>
+</p>
+
 A **filesystem-native, infinitely scalable hierarchical memory system** for AI coding agents.
 
 Unlike flat two-file systems (Hermes), vector databases (Mem0), or virtual memory management (Letta), pi-memory-tree organizes agent memory as a **knowledge tree** — keywords index → detail files → sub-branches, growing naturally as knowledge accumulates.
