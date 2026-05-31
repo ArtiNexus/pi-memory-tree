@@ -69,7 +69,7 @@ mkdir -p ~/.pi/memory/{patterns,sessions}
 mkdir -p ~/.pi/skills/pi-memory/scripts
 
 # 2. Copy scripts
-cp src/*.sh ~/.pi/skills/pi-memory/scripts/
+cp scripts/*.sh ~/.pi/skills/pi-memory/scripts/
 chmod +x ~/.pi/skills/pi-memory/scripts/*.sh
 
 # 3. Copy AGENTS.md

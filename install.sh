@@ -21,7 +21,7 @@ mkdir -p "$SCRIPTS_DIR" "$MEMORY_DIR/patterns" "$MEMORY_DIR/sessions" "$AGENT_DI
 # Copy scripts
 echo ""
 echo "  📦 Copying scripts..."
-for script in src/*.sh; do
+for script in scripts/*.sh; do
   cp "$script" "$SCRIPTS_DIR/"
   chmod +x "$SCRIPTS_DIR/$(basename "$script")"
   echo "    ✅ $(basename "$script")"
