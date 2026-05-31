@@ -71,18 +71,31 @@ Unlike flat two-file systems (Hermes), vector databases (Mem0), or virtual memor
 
 ## 🚀 Quick Start
 
+### As a pi skill (recommended)
+
 ```bash
-# 1. Install
+# Clone directly into pi's skill directory
+git clone https://github.com/ArtiNexus/pi-memory-tree.git ~/.pi/agent/skills/pi-memory-tree
+bash ~/.pi/agent/skills/pi-memory-tree/install.sh
+```
+
+Pi will auto-discover the skill. Next session, the agent knows how to use it.
+
+### As a standalone project
+
+```bash
 git clone https://github.com/ArtiNexus/pi-memory-tree.git
 cd pi-memory-tree
 bash install.sh
-
-# 2. Start your next session — the agent will automatically:
-#    - Load the focus board (WATCH.md) + index (MEMORY.md)
-#    - Remember past conversations via 3-level cascade
-#    - Save every Q&A as searchable session log
-#    - Record important facts to the right branch file
 ```
+
+### After install
+
+Start your next session — the agent will automatically:
+- Load the focus board (WATCH.md) + index (MEMORY.md)
+- Remember past conversations via 3-level cascade
+- Save every Q&A as searchable session log
+- Record important facts to the right branch file
 
 ## 📦 What's Included
 
