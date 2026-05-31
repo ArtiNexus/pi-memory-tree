@@ -1,6 +1,6 @@
 ---
 name: pi-memory-tree
-description: Three-layer hierarchical memory system for AI coding agents. Extends flat memory into a scalable tree with Focus (WATCH.md) → Index (MEMORY.md) → Detail branches (Level 1+N). Provides scripts for memory CRUD, cross-session search, raw transcript search, pattern recognition, and auto-consolidation. Use when your agent needs persistent, structured, infinitely-scalable memory with guaranteed recall. Trigger: "memory too big", "memory tree", "hierarchical memory", "persistent memory", "remember past conversations".
+description: "Three-layer hierarchical memory system for AI coding agents. Extends flat memory into a scalable tree with Focus (WATCH.md) → Index (MEMORY.md) → Detail branches (Level 1+N). Provides scripts for memory CRUD, cross-session search, raw transcript search, pattern recognition, and auto-consolidation. Use when your agent needs persistent, structured, infinitely-scalable memory with guaranteed recall."
 compatibility: pi + pi-memory skill
 ---
 
